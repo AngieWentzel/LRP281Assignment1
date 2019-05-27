@@ -1,0 +1,11 @@
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\bin\Debug\Assignment1LRP281.exe.config
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\bin\Debug\Assignment1LRP281.exe
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\bin\Debug\Assignment1LRP281.pdb
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\obj\Debug\Assignment1LRP281.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\obj\Debug\Assignment1LRP281.Properties.Resources.resources
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\obj\Debug\Assignment1LRP281.csproj.GenerateResource.cache
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\obj\Debug\Assignment1LRP281.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\obj\Debug\Assignment1LRP281.exe
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\obj\Debug\Assignment1LRP281.pdb
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\obj\Debug\Assignment1LRP281.Form1.resources
+C:\Users\angel\Desktop\Assignment1\Assignment1LRP281\obj\Debug\Assignment1LRP281.GSolution.resources
